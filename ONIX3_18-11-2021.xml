@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ONIXMessage xmlns="http://ns.editeur.org/onix/3.0/reference" release="3.0">
+<Header>
+  <Sender>
+    <SenderIdentifier>
+      <SenderIDType>07</SenderIDType>
+      <IDValue>123</IDValue>
+    </SenderIdentifier>
+    <SenderName>123</SenderName>
+    <ContactName>OTMS Administrator</ContactName>
+    <EmailAddress>otmsadmin@booksintl.com</EmailAddress>
+  </Sender>
+  <SentDateTime>20211118</SentDateTime>
+</Header>
+<Product>
+  <RecordReference>9781584201458</RecordReference>
+  <NotificationType>03</NotificationType>
+  <ProductIdentifier>
+    <ProductIDType>02</ProductIDType>
+    <IDValue>1584201452</IDValue>
+  </ProductIdentifier>
+  <ProductIdentifier>
+    <ProductIDType>15</ProductIDType>
+    <IDValue>9781584201458</IDValue>
+  </ProductIdentifier>
+  <DescriptiveDetail>
+    <ProductComposition>00</ProductComposition>
+    <ProductForm>BC</ProductForm>
+    <Measure>
+      <MeasureType>01</MeasureType>
+      <Measurement>8.7</Measurement>
+      <MeasureUnitCode>in</MeasureUnitCode>
+    </Measure>
+    <Measure>
+      <MeasureType>02</MeasureType>
+      <Measurement>8</Measurement>
+      <MeasureUnitCode>in</MeasureUnitCode>
+    </Measure>
+    <Measure>
+      <MeasureType>08</MeasureType>
+      <Measurement>0.38</Measurement>
+      <MeasureUnitCode>lb</MeasureUnitCode>
+    </Measure>
+    <NoCollection/>
+    <TitleDetail>
+      <TitleType>01</TitleType>
+      <TitleElement>
+        <TitleElementLevel>01</TitleElementLevel>
+        <TitleText>The Organic Bug Book</TitleText>
+      </TitleElement>
+    </TitleDetail>
+    <Contributor>
+      <SequenceNumber>1</SequenceNumber>
+      <ContributorRole>A01</ContributorRole>
+      <PersonName>Chris Korrow</PersonName>
+      <PersonNameInverted>Korrow, Chris</PersonNameInverted>
+      <NamesBeforeKey>Chris</NamesBeforeKey>
+      <KeyNames>Korrow</KeyNames>
+      <BiographicalNote textformat="05">&lt;b>Chris Korrow&lt;/b> is a farmer, naturalist, photographer, filmmaker, and author. His film &lt;i>Garden Insects&lt;/i> won two film festival awards and premiered nationwide on PBS. &lt;i>Frost Flowers&lt;/i> has aired on PBS Kentucky for several years. He is the author of &lt;i>The 30-Square-Foot Garden: A Guide for Observing Nature and Awakening to Nature.&lt;/i> He lives on Whidbey Island in the Puget Sound, where he operates a one-third-acre market garden inside the city limits of Langley and within walking distance of home. Chris explores the intersections between nature, agriculture, community, and spirituality through his media company, Breathe Deep Productions. To find out more about his work, visit &lt;a rel="nofollow" target="_blank" href="http://www.breathedeepproductions.com/">www.breathedeepproductions.com&lt;/a>.</BiographicalNote>
+      <Website>
+        <WebsiteRole>00</WebsiteRole>
+        <WebsiteDescription textformat="05">AUTHORS_PHOTO</WebsiteDescription>
+        <WebsiteLink>http://www.booksb2bportal.com/authors/1/o_1fc6bujlj1k4j1jgr17dtq1kiq1n.jpg</WebsiteLink>
+      </Website>
+    </Contributor>
+    <Language>
+      <LanguageRole>01</LanguageRole>
+      <LanguageCode>eng</LanguageCode>
+    </Language>
+    <Extent>
+      <ExtentType>05</ExtentType>
+      <ExtentValue>44</ExtentValue>
+      <ExtentUnit>03</ExtentUnit>
+    </Extent>
+    <Subject>
+      <MainSubject/>
+      <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+      <SubjectSchemeVersion>2006</SubjectSchemeVersion>
+      <SubjectCode>NAT017000</SubjectCode>
+    </Subject>
+    <Subject>
+      <MainSubject/>
+      <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+      <SubjectSchemeVersion>2006</SubjectSchemeVersion>
+      <SubjectCode>EDU017000</SubjectCode>
+    </Subject>
+    <Subject>
+      <MainSubject/>
+      <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+      <SubjectSchemeVersion>2006</SubjectSchemeVersion>
+      <SubjectCode>EDU000000</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>24</SubjectSchemeIdentifier>
+      <SubjectSchemeName>BOOKSTORE_TOPIC</SubjectSchemeName>
+      <SubjectCode>For Children</SubjectCode>
+      <SubjectHeadingText>For Children: Picture Books</SubjectHeadingText>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>24</SubjectSchemeIdentifier>
+      <SubjectSchemeName>BOOKSTORE_TOPIC</SubjectSchemeName>
+      <SubjectCode>Family</SubjectCode>
+      <SubjectHeadingText>Crafts &amp; Activities</SubjectHeadingText>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>24</SubjectSchemeIdentifier>
+      <SubjectSchemeName>BOOKSTORE_TOPIC</SubjectSchemeName>
+      <SubjectCode>Waldorf &amp; Special Needs Education</SubjectCode>
+      <SubjectHeadingText>Waldorf &amp; Special Needs Education: Homeschooling</SubjectHeadingText>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>24</SubjectSchemeIdentifier>
+      <SubjectSchemeName>BOOKSTORE_TOPIC</SubjectSchemeName>
+      <SubjectCode>Waldorf &amp; Special Needs Education</SubjectCode>
+      <SubjectHeadingText>Waldorf &amp; Special Needs Education: Resources</SubjectHeadingText>
+    </Subject>
+    <AudienceRange>
+      <AudienceRangeQualifier>11</AudienceRangeQualifier>
+      <AudienceRangePrecision>03</AudienceRangePrecision>
+      <AudienceRangeValue>4</AudienceRangeValue>
+      <AudienceRangePrecision>04</AudienceRangePrecision>
+      <AudienceRangeValue>7</AudienceRangeValue>
+    </AudienceRange>
+  </DescriptiveDetail>
+  <CollateralDetail>
+    <TextContent>
+      <TextType>03</TextType>
+      <ContentAudience>00</ContentAudience>
+      <Text textformat="05">Here is an intelligent and entertaining resource for encouraging children to become involved in a garden or simply helping them understand and appreciate common backyard insects. In colorful pictures and simple text, Chris Korrow helps children understand the place of those small neighbors in our world. &lt;a rel="nofollow">Read more....&lt;/a></Text>
+    </TextContent>
+    <TextContent>
+      <TextType>01</TextType>
+      <ContentAudience>00</ContentAudience>
+      <Text textformat="05">There are about 1,600,000 different species of plants and animals on Earth. Almost 900,000 of those are insects! In 2001, expenditures for pesticides worldwide for agriculture was almost $32 billion U.S. In his “Resources for Parents,” Chris Korrow, the author of &lt;i>&lt;b>The Organic Bug Book&lt;/b>&lt;/i> suggests:&lt;br>&lt;br>“Begin by considering that there is a reason for every creature and every process in an organic garden. More than just growing something, the gardener is managing an entire ecosystem. The gardener must have an awareness of what is happening in his or her garden. How to do this? It’s simple—spend time in the garden, watching and observing. If you notice insect damage, check under the leaves of the plants, poke around in the soil at the base of plants. You’ll be surprised at how much you can learn about insect pests.” &lt;br>&lt;br>In colorful pictures and simple text, Chris Korrow helps children (and adults) better understand the place of those small neighbors in our world. He identifies, illustrates, and describes dozens of insects, explaining what they do and how they are related to people and their gardens—and how bugs can help or frustrate organic gardeners! &lt;br>&lt;br>This book is based on Korrow's award-winning film, &lt;i>Garden Insects&lt;/i> (as seen on PBS). After two decades of living off the grid, and homeschooling his two daughters on a biodynamic Kentucky farm, he was inspired to create this book with the hopes that it would inspire gown-ups to get outside and into their gardens with children. &lt;br>&lt;br>&lt;i>&lt;b>The Organic Bug Book&lt;/b>&lt;/i> is an intelligent and entertaining resource for encouraging children to become involved in a garden or simply to help them understand and appreciate common backyard insects. The book also includes a section of tips for organic “pest” control.</Text>
+    </TextContent>
+    <SupportingResource>
+      <ResourceContentType>01</ResourceContentType>
+      <ContentAudience>00</ContentAudience>
+      <ResourceMode>03</ResourceMode>
+      <ResourceVersion>
+        <ResourceForm>01</ResourceForm>
+        <ResourceLink>http://www.booksb2bportal.com/covers/1/9781584201458.jpg</ResourceLink>
+      </ResourceVersion>
+    </SupportingResource>
+    <SupportingResource>
+      <ResourceContentType>01</ResourceContentType>
+      <ContentAudience>00</ContentAudience>
+      <ResourceMode>03</ResourceMode>
+      <ResourceVersion>
+        <ResourceForm>01</ResourceForm>
+        <ResourceVersionFeature>
+          <ResourceVersionFeatureType>03</ResourceVersionFeatureType>
+          <FeatureValue>160</FeatureValue>
+          <FeatureNote textformat="05">S</FeatureNote>
+        </ResourceVersionFeature>
+        <ResourceLink>http://www.booksb2bportal.com/covers/1/9781584201458_S.jpg</ResourceLink>
+      </ResourceVersion>
+    </SupportingResource>
+    <SupportingResource>
+      <ResourceContentType>01</ResourceContentType>
+      <ContentAudience>00</ContentAudience>
+      <ResourceMode>03</ResourceMode>
+      <ResourceVersion>
+        <ResourceForm>01</ResourceForm>
+        <ResourceVersionFeature>
+          <ResourceVersionFeatureType>03</ResourceVersionFeatureType>
+          <FeatureValue>480</FeatureValue>
+          <FeatureNote textformat="05">M</FeatureNote>
+        </ResourceVersionFeature>
+        <ResourceLink>http://www.booksb2bportal.com/covers/1/9781584201458_M.jpg</ResourceLink>
+      </ResourceVersion>
+    </SupportingResource>
+    <SupportingResource>
+      <ResourceContentType>01</ResourceContentType>
+      <ContentAudience>00</ContentAudience>
+      <ResourceMode>03</ResourceMode>
+      <ResourceVersion>
+        <ResourceForm>01</ResourceForm>
+        <ResourceVersionFeature>
+          <ResourceVersionFeatureType>03</ResourceVersionFeatureType>
+          <FeatureValue>1200</FeatureValue>
+          <FeatureNote textformat="05">L</FeatureNote>
+        </ResourceVersionFeature>
+        <ResourceLink>http://www.booksb2bportal.com/covers/1/9781584201458_L.jpg</ResourceLink>
+      </ResourceVersion>
+    </SupportingResource>
+  </CollateralDetail>
+  <PublishingDetail>
+    <Imprint>
+      <ImprintIdentifier>
+        <ImprintIDType>01</ImprintIDType>
+        <IDValue>ANTLB</IDValue>
+      </ImprintIdentifier>
+      <ImprintName>Lindisfarne Books</ImprintName>
+    </Imprint>
+    <Publisher>
+      <PublishingRole>01</PublishingRole>
+      <PublisherIdentifier>
+        <PublisherIDType>01</PublisherIDType>
+        <IDValue>ANTLB</IDValue>
+      </PublisherIdentifier>
+      <PublisherName>Lindisfarne Books</PublisherName>
+    </Publisher>
+    <Publisher>
+      <PublisherName>SteinerBooks</PublisherName>
+    </Publisher>
+    <PublishingStatus>04</PublishingStatus>
+    <PublishingDate>
+      <PublishingDateRole>01</PublishingDateRole>
+      <Date>20130523</Date>
+    </PublishingDate>
+    <SalesRights>
+      <SalesRightsType>01</SalesRightsType>
+      <Territory>
+        <RegionsIncluded>WORLD</RegionsIncluded>
+      </Territory>
+    </SalesRights>
+  </PublishingDetail>
+  <ProductSupply>
+    <SupplyDetail>
+      <Supplier>
+        <SupplierRole>00</SupplierRole>
+        <SupplierIdentifier>
+          <SupplierIDType>07</SupplierIDType>
+          <IDValue>2539519</IDValue>
+        </SupplierIdentifier>
+        <SupplierName>Steiner Books</SupplierName>
+      </Supplier>
+      <ProductAvailability>21</ProductAvailability>
+      <Stock>
+        <LocationName>BI_WAREHOUSE</LocationName>
+        <OnHand>45</OnHand>
+        <OnOrder>0</OnOrder>
+      </Stock>
+      <Price>
+        <PriceType>01</PriceType>
+        <DiscountCoded>
+          <DiscountCodeType>02</DiscountCodeType>
+          <DiscountCode>A2</DiscountCode>
+        </DiscountCoded>
+        <PriceAmount>11.95</PriceAmount>
+        <CurrencyCode>USD</CurrencyCode>
+      </Price>
+    </SupplyDetail>
+  </ProductSupply>
+</Product>
+</ONIXMessage>

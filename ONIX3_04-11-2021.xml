@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ONIXMessage xmlns="http://ns.editeur.org/onix/3.0/reference" release="3.0">
+<Header>
+  <Sender>
+    <SenderIdentifier>
+      <SenderIDType>07</SenderIDType>
+      <IDValue>123456X</IDValue>
+    </SenderIdentifier>
+    <SenderName>RawBrick</SenderName>
+    <ContactName>OTMS Administrator</ContactName>
+    <EmailAddress>otmsadmin@booksintl.com</EmailAddress>
+  </Sender>
+  <SentDateTime>20211104</SentDateTime>
+</Header>
+<Product>
+  <RecordReference>9780953160006</RecordReference>
+  <NotificationType>03</NotificationType>
+  <ProductIdentifier>
+    <ProductIDType>02</ProductIDType>
+    <IDValue>0953160009</IDValue>
+  </ProductIdentifier>
+  <ProductIdentifier>
+    <ProductIDType>03</ProductIDType>
+    <IDValue>9780953160006</IDValue>
+  </ProductIdentifier>
+  <ProductIdentifier>
+    <ProductIDType>15</ProductIDType>
+    <IDValue>9780953160006</IDValue>
+  </ProductIdentifier>
+  <DescriptiveDetail>
+    <ProductComposition>00</ProductComposition>
+    <ProductForm>BC</ProductForm>
+    <Measure>
+      <MeasureType>08</MeasureType>
+      <Measurement>0.3</Measurement>
+      <MeasureUnitCode>lb</MeasureUnitCode>
+    </Measure>
+    <NoCollection/>
+    <TitleDetail>
+      <TitleType>01</TitleType>
+      <TitleElement>
+        <TitleElementLevel>01</TitleElementLevel>
+        <TitleText>Working with Destiny II</TitleText>
+        <Subtitle>The Golden Blade 1998</Subtitle>
+      </TitleElement>
+    </TitleDetail>
+    <Contributor>
+      <SequenceNumber>1</SequenceNumber>
+      <ContributorRole>B01</ContributorRole>
+      <PersonNameInverted>Forward, William</PersonNameInverted>
+      <NamesBeforeKey>William</NamesBeforeKey>
+      <KeyNames>Forward</KeyNames>
+    </Contributor>
+    <Language>
+      <LanguageRole>01</LanguageRole>
+      <LanguageCode>eng</LanguageCode>
+    </Language>
+    <Extent>
+      <ExtentType>05</ExtentType>
+      <ExtentValue>98</ExtentValue>
+      <ExtentUnit>03</ExtentUnit>
+    </Extent>
+    <Subject>
+      <MainSubject/>
+      <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+      <SubjectCode>OCC016000</SubjectCode>
+    </Subject>
+  </DescriptiveDetail>
+  <CollateralDetail>
+    <TextContent>
+      <TextType>01</TextType>
+      <ContentAudience>00</ContentAudience>
+      <Text textformat="05">Knowledge of reincarnation and karma is a spiritual heritage that we must lay claim to consciously: it is the foundation of our future culture. The ethos prevalent in both mainstream science and most modern alternative paradigms does not readily admit that experiences of previous lives and the apparent lawfulness of destiny can be the object of scientific research. This issue of The Golden Blade challenges that ethos, which threatens to disconnect us from our unfinished evolution.&lt;P> The contributors to this collection have written out of their spiritual research in a wide variety of professional and private contexts. This is a continuation and expansion of the theme of last year's Golden Blade, which generated the enthusiastic response that spawned this sequel.&lt;P> Contributors include Owen Barfield, Baruch Urieli, Christopher Clouder, Trui Derwig, Elizabeth Atwell, and others.</Text>
+    </TextContent>
+    <SupportingResource>
+      <ResourceContentType>01</ResourceContentType>
+      <ContentAudience>00</ContentAudience>
+      <ResourceMode>03</ResourceMode>
+      <ResourceVersion>
+        <ResourceForm>01</ResourceForm>
+        <ResourceLink>http://if.teststylus.com/covers/32/9780953160006.jpg</ResourceLink>
+      </ResourceVersion>
+    </SupportingResource>
+    <SupportingResource>
+      <ResourceContentType>01</ResourceContentType>
+      <ContentAudience>00</ContentAudience>
+      <ResourceMode>03</ResourceMode>
+      <ResourceVersion>
+        <ResourceForm>01</ResourceForm>
+        <ResourceVersionFeature>
+          <ResourceVersionFeatureType>03</ResourceVersionFeatureType>
+          <FeatureValue>160</FeatureValue>
+          <FeatureNote textformat="05">S</FeatureNote>
+        </ResourceVersionFeature>
+        <ResourceLink>http://if.teststylus.com/covers/32/9780953160006_S.jpg</ResourceLink>
+      </ResourceVersion>
+    </SupportingResource>
+    <SupportingResource>
+      <ResourceContentType>01</ResourceContentType>
+      <ContentAudience>00</ContentAudience>
+      <ResourceMode>03</ResourceMode>
+      <ResourceVersion>
+        <ResourceForm>01</ResourceForm>
+        <ResourceVersionFeature>
+          <ResourceVersionFeatureType>03</ResourceVersionFeatureType>
+          <FeatureValue>480</FeatureValue>
+          <FeatureNote textformat="05">M</FeatureNote>
+        </ResourceVersionFeature>
+        <ResourceLink>http://if.teststylus.com/covers/32/9780953160006_M.jpg</ResourceLink>
+      </ResourceVersion>
+    </SupportingResource>
+    <SupportingResource>
+      <ResourceContentType>01</ResourceContentType>
+      <ContentAudience>00</ContentAudience>
+      <ResourceMode>03</ResourceMode>
+      <ResourceVersion>
+        <ResourceForm>01</ResourceForm>
+        <ResourceVersionFeature>
+          <ResourceVersionFeatureType>03</ResourceVersionFeatureType>
+          <FeatureValue>1200</FeatureValue>
+          <FeatureNote textformat="05">L</FeatureNote>
+        </ResourceVersionFeature>
+        <ResourceLink>http://if.teststylus.com/covers/32/9780953160006_L.jpg</ResourceLink>
+      </ResourceVersion>
+    </SupportingResource>
+  </CollateralDetail>
+  <PublishingDetail>
+    <Imprint>
+      <ImprintIdentifier>
+        <ImprintIDType>01</ImprintIDType>
+        <IDValue>ANTGB</IDValue>
+      </ImprintIdentifier>
+      <ImprintName>Garber Books</ImprintName>
+    </Imprint>
+    <Publisher>
+      <PublishingRole>01</PublishingRole>
+      <PublisherIdentifier>
+        <PublisherIDType>01</PublisherIDType>
+        <IDValue>ANTGB</IDValue>
+      </PublisherIdentifier>
+      <PublisherName>Garber Books</PublisherName>
+    </Publisher>
+    <PublishingStatus>04</PublishingStatus>
+    <PublishingDate>
+      <PublishingDateRole>01</PublishingDateRole>
+      <Date>19971201</Date>
+    </PublishingDate>
+    <SalesRights>
+      <SalesRightsType>01</SalesRightsType>
+      <Territory>
+        <RegionsIncluded>WORLD</RegionsIncluded>
+      </Territory>
+    </SalesRights>
+  </PublishingDetail>
+  <ProductSupply>
+    <SupplyDetail>
+      <Supplier>
+        <SupplierRole>00</SupplierRole>
+        <SupplierIdentifier>
+          <SupplierIDType>07</SupplierIDType>
+          <IDValue>2539519</IDValue>
+        </SupplierIdentifier>
+        <SupplierName>Steiner Books</SupplierName>
+      </Supplier>
+      <ProductAvailability>21</ProductAvailability>
+      <Stock>
+        <LocationName>BI_WAREHOUSE</LocationName>
+        <OnHand>42</OnHand>
+        <OnOrder>0</OnOrder>
+      </Stock>
+      <Price>
+        <PriceType>01</PriceType>
+        <DiscountCoded>
+          <DiscountCodeType>02</DiscountCodeType>
+          <DiscountCode>A2</DiscountCode>
+        </DiscountCoded>
+        <PriceAmount>12.95</PriceAmount>
+        <CurrencyCode>USD</CurrencyCode>
+      </Price>
+    </SupplyDetail>
+  </ProductSupply>
+</Product>
+</ONIXMessage>
